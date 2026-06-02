@@ -1,0 +1,2 @@
+# mstagetest
+This R package is used to test for homogeneity for multistage sampling. The main function mstagetest() takes as input the observed frequencies of the two populations, and the sample size of the two populations at each of the stages.

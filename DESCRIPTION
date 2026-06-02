@@ -1,0 +1,11 @@
+Package: mstagetest
+Title: Test for homogeneity for multi-stage sampling
+Version: 0.0.0.9000
+Authors: Haoyu Chen
+Description: Given observed frequencies and sample size at each stage, test whether the two populations are significantly different to each other.
+License: use_mit_license()
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: corpcor
+Remotes: cran/corpcor
